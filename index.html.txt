@@ -10,7 +10,7 @@
 <table border="1" width="1000" align="center">
 
 <tr>
-    <td height="200" width="200"></td>
+    <td height="200" width="200"><img src="" alt=""</td>
     <td></td>
 </tr>
     <tr>
